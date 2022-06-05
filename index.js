@@ -838,32 +838,32 @@ if (!m.isGroup) return reply(lang.groupOnly())
             var but = [
           {
             "urlButton": {
-              "displayText": "YouTube Creator",
+              "displayText": "YouTube ownerku🎮",
               "url": `${youtube}`
             }
           },
           {
             "urlButton": {
-              "displayText": "Rest Api's",              
+              "displayText": "𝖱𝙚𝙨𝙩 𝙖𝙥𝙞.𝙨🐤",              
               "url": `${myweb}`
 
             }
           },
           {
             "quickReplyButton": {
-              "displayText": "Rules",
+              "displayText": "𝐑𝐔𝐋𝐄𝐒𝐍𝐘𝐀🎧",
 "id": 'rules'
             }
           },
           {
             "quickReplyButton": {
-              "displayText": "Owner",
+              "displayText": "Owner 𝐭𝐞𝐫𝐠𝐚𝐧𝐭𝐞𝐧𝐠𝐤𝐮😎",
 "id": 'owner'
             }
           },
 {
             "quickReplyButton": {
-              "displayText": "List Command",
+              "displayText": "𝐋𝐢𝐬𝐭𝐭 𝐦𝐞𝐧𝐮𝐧𝐲𝐚 𝐭𝐨𝐝⬇️",
 "id": 'command'
             }
           }
