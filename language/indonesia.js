@@ -5,7 +5,7 @@ exports.wait = () => {
     return `⏳ Mohon tunggu sebentar~`
 }
 exports.ok = () => {
-    return `✅ Done. Ok desu~`
+    return `✅ Done. Ok banh🐼~`
 }
 
 exports.err = () => {
@@ -92,7 +92,7 @@ saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp.
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu NitsuBotz-Md :*
+*📚 List-Menu Rielbotz-Md :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
