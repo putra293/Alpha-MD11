@@ -838,7 +838,7 @@ if (!m.isGroup) return reply(lang.groupOnly())
             var but = [
           {
             "urlButton": {
-              "displayText": "YouTube ownerku🎮",
+              "displayText": "gada yt banh🗿",
               "url": `${youtube}`
             }
           },
@@ -1581,7 +1581,7 @@ break
             break
 				case 'menu':{
 					if(typemenu == 'templateLocation'){
-						await alpha.send5ButLoc(from, lang.menunya(salam, pushname, botname) , `© ${ownername}`,pp_bot, [{"urlButton": {"displayText": "𝗴𝗮𝘂𝘀𝗮𝗵 𝗱𝗶𝗸𝗹𝗶𝗸👽","url": `${youtube}`}},{"urlButton": {"displayText": "𝗥𝗘𝗦𝗧 𝗔𝗽𝗶'𝘀🐤","url": `${myweb}`}},{"quickReplyButton": {"displayText": "𝗗𝗼𝗻𝗮𝘀𝗶 𝗯𝗮𝗻𝗵😅","id": 'donate'}},{"quickReplyButton": {"displayText": "𝗢𝘄𝗻𝗲𝗿 𝘁𝗲𝗿𝗴𝗮𝗻𝘁𝗲𝗻𝗴𝗸𝘂 𝗻𝗶𝗵😎","id": 'owner'}},{"quickReplyButton": {"displayText": "𝗟𝗜𝗦𝗧 𝗠𝗘𝗡𝗨𝗡𝗬𝗔 𝗧𝗢𝗗🤖","id": 'command'}}] )
+						await alpha.send5ButLoc(from, lang.menunya(salam, pushname, botname) , `© ${ownername}`,pp_bot, [{"urlButton": {"displayText": "𝗴𝗮𝘂𝘀𝗮𝗵 𝗱𝗶𝗸𝗹𝗶𝗸👽","url": `${youtube}`}},{"urlButton": {"displayText": "𝗥𝗘𝗦𝗧 𝗔𝗽𝗶'𝘀🐤","url": `${myweb}`}},{"quickReplyButton": {"displayText": "📮𝗗𝗼𝗻𝗮𝘀𝗶 𝗯𝗮𝗻𝗵📮","id": 'donate'}},{"quickReplyButton": {"displayText": "𝗢𝘄𝗻𝗲𝗿 𝘁𝗲𝗿𝗴𝗮𝗻𝘁𝗲𝗻𝗴𝗸𝘂 𝗻𝗶𝗵🗿","id": 'owner'}},{"quickReplyButton": {"displayText": "𝗟𝗜𝗦𝗧 𝗠𝗘𝗡𝗨𝗡𝗬𝗔 𝗧𝗢𝗗🤖","id": 'command'}}] )
 							}
 						if(typemenu == 'templateTenor'){
 							alpha.send5ButGif(from, lang.menunya(salam, pushname, botname) , `© ${ownername}` ,pp_bot, [{"urlButton": {"displayText": "YouTube Creator","url": `${youtube}`}},{"urlButton": {"displayText": "Rest Api's","url": `${myweb}`}},{"quickReplyButton": {"displayText": "Donasi","id": 'donate'}},{"quickReplyButton": {"displayText": "Owner","id": 'owner'}},{"quickReplyButton": {"displayText": "List Command","id": 'command'}}] , {quoted: m})
