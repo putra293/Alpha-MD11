@@ -1215,7 +1215,7 @@ break
                 if (!(isGroupAdmins || isGroupOwner )) return reply(lang.adminOnly())
                 let tekss = `══✪〘 *👥 Mention All* 〙✪══\n\n➲ *Message : ${q ? q : 'Nothing'}*\n\n`
 		      	for (let mem of participants) {
-		            tekss += `🏅 @${mem.id.split('@')[0]}\n`
+		            tekss += `🐼 @${mem.id.split('@')[0]}\n`
 				}
                 tekss += `\n⋙ *${botname}* ⋘`
                 alpha.sendMessage(from, { text: tekss, mentions: participants.map(a => a.id) }, { quoted: fkontak })
