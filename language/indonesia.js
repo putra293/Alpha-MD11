@@ -86,8 +86,12 @@ exports.notNum = (q) => {
 }
 exports.menunya = (salam, pushname, botname) =>{
 	return`Hai kak ${pushname} 👋 selamat ${salam} , 
-saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp.
-`
+ ♡   ❍ㅤ  ⎙ㅤ ⌲
+╭─[ *_RIELBOTZ-MD_* ]─✧
+╰─────···
+📮 𝚂𝚒𝚕𝚊𝚑𝚔𝚊𝚗 𝚙𝚒𝚕𝚒𝚑  𝙱𝚞𝚝𝚝𝚘𝚗 𝚍𝚒 𝚋𝚊𝚠𝚊𝚑 𝚒𝚗𝚒 ⚠︎
+⬣━〔Powered By Riel━⬣
+▌│█║▌║▌║║▌║▌║█│▌
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
